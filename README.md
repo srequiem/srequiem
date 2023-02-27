@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sacha</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
+- 🧑🏻‍💻 Working at [KissKissBankBank](https://www.kisskissbankbank.com/fr) 💲
+
 - 📫 How to reach me **sacharequiem@live.fr**
 
 - 📄 Know about my experiences [linkedin.com/in/sacharequiem](linkedin.com/in/sacharequiem)
