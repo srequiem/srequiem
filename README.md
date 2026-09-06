@@ -3,7 +3,9 @@
 
 Ex @Deezer / Ulule / KisskissBankbank
 
-- 🎂 Last 3D Website to promote my next Music EP : https://github.com/srequiem/atome-room
+- 👫🏖️ 2026 August - Last blog website (so cool you should go) : https://github.com/srequiem/yourgarden 
+
+- 🎂 2026 March - Last 3D Website to promote my next Music EP : https://github.com/srequiem/atome-room
 
 - 📫 How to reach me **sacharequiem@live.fr**
 
